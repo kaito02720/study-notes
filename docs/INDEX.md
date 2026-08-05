@@ -2,8 +2,9 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 1 件。
+全 2 件。
 
 ## 2026年
 
+- 2026-08-05 [【勉強】Okta Customer Identity Cloud (Auth0) — SSO／フェデレーション（SAML編）（2026-08-05）](2026/2026-08-05-Okta-Customer-Identity-Cloud-Auth0-SSO-フェデレーション-SAML編.md)
 - 2026-08-04 [【勉強】Ping Identity — SSO／フェデレーション（SAML編）（2026-08-04）](2026/2026-08-04-Ping-Identity-SSO-フェデレーション-SAML編.md)
