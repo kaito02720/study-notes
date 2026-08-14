@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 8 件。
+全 9 件。
 
 ## 2026年
 
+- 2026-08-14 [【勉強】IGA（アイデンティティガバナンス＆管理）— アイデンティティライフサイクル管理（Joiner／Mover／Leaver）（2026-08-14）](2026/2026-08-14-IGA-アイデンティティライフサイクル管理-Joiner-Mover-Leaver.md)
 - 2026-08-13 [【勉強】Okta Customer Identity Cloud (Auth0) — ユーザー／グループ管理（2026-08-13）](2026/2026-08-13-Okta-Customer-Identity-Cloud-Auth0-ユーザー-グループ管理.md)
 - 2026-08-12 [【勉強】Ping Identity — ユーザー／グループ管理（2026-08-12）](2026/2026-08-12-Ping-Identity-ユーザー-グループ管理.md)
 - 2026-08-11 [【勉強】Okta Workforce Identity Cloud — ユーザー／グループ管理（2026-08-11）](2026/2026-08-11-Okta-Workforce-Identity-Cloud-ユーザー-グループ管理.md)
