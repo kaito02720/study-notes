@@ -2,10 +2,12 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 19 件。
+全 21 件。
 
 ## 2026年
 
+- 2026-09-01 [【勉強】IGA（アイデンティティガバナンス＆管理）— 職務分掌（SoD）ポリシーと違反の検知・是正（2026-09-01）](2026/2026-09-01-IGA-職務分掌-SoD-ポリシーと違反の検知-是正.md)
+- 2026-08-31 [【勉強】Okta Customer Identity Cloud (Auth0) — 認証ポリシーとMFA（2026-08-31）](2026/2026-08-31-Okta-Customer-Identity-Cloud-Auth0-認証ポリシーとMFA.md)
 - 2026-08-28 [【勉強】Ping Identity — 認証ポリシーとMFA（2026-08-28）](2026/2026-08-28-Ping-Identity-認証ポリシーとMFA.md)
 - 2026-08-27 [【勉強】Okta Workforce Identity Cloud — 認証ポリシーとMFA（2026-08-27）](2026/2026-08-27-Okta-Workforce-Identity-Cloud-認証ポリシーとMFA.md)
 - 2026-08-26 [【勉強】Microsoft Entra ID — 条件付きアクセスとMFA（2026-08-26）](2026/2026-08-26-Microsoft-Entra-ID-条件付きアクセスとMFA.md)
