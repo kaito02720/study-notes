@@ -2,10 +2,12 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 27 件。
+全 29 件。
 
 ## 2026年
 
+- 2026-09-15 [【勉強】Microsoft Entra ID — Terraform による IaC（azuread / msgraph プロバイダー）（2026-09-15）](2026/2026-09-15-Microsoft-Entra-ID-Terraform-による-IaC-azuread-msgraph-プロバイダー.md)
+- 2026-09-14 [【勉強】Keeper — 運用・監査ログ（ARAM と SIEM 連携）（2026-09-14）](2026/2026-09-14-Keeper-運用-監査ログ-ARAM-と-SIEM-連携.md)
 - 2026-09-11 [【勉強】IGA（アイデンティティガバナンス＆管理）— 監査証跡と監査対応レポート（Audit Trail・保持期間）（2026-09-11）](2026/2026-09-11-IGA-監査証跡と監査対応レポート-Audit-Trail-保持期間.md)
 - 2026-09-10 [【勉強】Okta Customer Identity Cloud (Auth0) — 運用・監査ログ（テナントログと Log Streams）（2026-09-10）](2026/2026-09-10-Okta-Customer-Identity-Cloud-Auth0-運用-監査ログ-テナントログと-Log-Streams.md)
 - 2026-09-09 [【勉強】Ping Identity — 運用・監査ログ（Audit と Webhooks）（2026-09-09）](2026/2026-09-09-Ping-Identity-運用-監査ログ-Audit-と-Webhooks.md)
