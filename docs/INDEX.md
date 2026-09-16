@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 29 件。
+全 30 件。
 
 ## 2026年
 
+- 2026-09-16 [【勉強】Okta Workforce Identity Cloud — Terraform による IaC（okta プロバイダーと API サービスアプリ）（2026-09-16）](2026/2026-09-16-Okta-Workforce-Identity-Cloud-Terraform-による-IaC-okta-プロバイダーと-API-サービスアプリ.md)
 - 2026-09-15 [【勉強】Microsoft Entra ID — Terraform による IaC（azuread / msgraph プロバイダー）（2026-09-15）](2026/2026-09-15-Microsoft-Entra-ID-Terraform-による-IaC-azuread-msgraph-プロバイダー.md)
 - 2026-09-14 [【勉強】Keeper — 運用・監査ログ（ARAM と SIEM 連携）（2026-09-14）](2026/2026-09-14-Keeper-運用-監査ログ-ARAM-と-SIEM-連携.md)
 - 2026-09-11 [【勉強】IGA（アイデンティティガバナンス＆管理）— 監査証跡と監査対応レポート（Audit Trail・保持期間）（2026-09-11）](2026/2026-09-11-IGA-監査証跡と監査対応レポート-Audit-Trail-保持期間.md)
