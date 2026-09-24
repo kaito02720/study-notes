@@ -2,10 +2,12 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 31 件。
+全 33 件。
 
 ## 2026年
 
+- 2026-09-25 [【勉強】IGA（アイデンティティガバナンス＆管理）— ガバナンス設定のコード化（Terraform で扱うアクセスパッケージとキャンペーン）（2026-09-25）](2026/2026-09-25-IGA-ガバナンス設定のコード化-Terraform-で扱うアクセスパッケージとキャンペーン.md)
+- 2026-09-24 [【勉強】Okta Customer Identity Cloud (Auth0) — Terraform による IaC（auth0 プロバイダーと M2M アプリ）（2026-09-24）](2026/2026-09-24-Okta-Customer-Identity-Cloud-Auth0-Terraform-による-IaC-auth0-プロバイダーと-M2M-アプリ.md)
 - 2026-09-18 [【勉強】Ping Identity — Terraform による IaC（pingone プロバイダーと Worker アプリ）（2026-09-18）](2026/2026-09-18-Ping-Identity-Terraform-による-IaC-pingone-プロバイダーと-Worker-アプリ.md)
 - 2026-09-16 [【勉強】Okta Workforce Identity Cloud — Terraform による IaC（okta プロバイダーと API サービスアプリ）（2026-09-16）](2026/2026-09-16-Okta-Workforce-Identity-Cloud-Terraform-による-IaC-okta-プロバイダーと-API-サービスアプリ.md)
 - 2026-09-15 [【勉強】Microsoft Entra ID — Terraform による IaC（azuread / msgraph プロバイダー）（2026-09-15）](2026/2026-09-15-Microsoft-Entra-ID-Terraform-による-IaC-azuread-msgraph-プロバイダー.md)
