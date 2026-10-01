@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 37 件。
+全 38 件。
 
 ## 2026年
 
+- 2026-10-01 [【勉強】Okta Customer Identity Cloud (Auth0) — OIDC／OAuth 2.0 とアプリケーション・API（audience・スコープ・リフレッシュトークン）（2026-10-01）](2026/2026-10-01-Okta-Customer-Identity-Cloud-Auth0-OIDC-OAuth-2.0-とアプリケーション-API-audience-スコープ-リフレッシュトークン.md)
 - 2026-09-30 [【勉強】Ping Identity — OIDC／OAuth 2.0 とアプリ・カスタムリソース（PKCE・スコープ）（2026-09-30）](2026/2026-09-30-Ping-Identity-OIDC-OAuth-2.0-とアプリ-カスタムリソース-PKCE-スコープ.md)
 - 2026-09-29 [【勉強】Okta Workforce Identity Cloud — OIDC／OAuth 2.0 と認可サーバー（Org／Custom・アクセスポリシー）（2026-09-29）](2026/2026-09-29-Okta-Workforce-Identity-Cloud-OIDC-OAuth-2.0-と認可サーバー-Org-Custom-アクセスポリシー.md)
 - 2026-09-29 [【勉強】Microsoft Entra ID — OIDC／OAuth 2.0 とアプリ登録・同意（2026-09-29）](2026/2026-09-29-Microsoft-Entra-ID-OIDC-OAuth-2.0-とアプリ登録-同意.md)
