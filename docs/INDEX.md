@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 39 件。
+全 40 件。
 
 ## 2026年
 
+- 2026-10-07 [【勉強】Microsoft Entra ID — ハイブリッドID（Connect Sync・Cloud Sync・パスワードハッシュ同期）（2026-10-07）](2026/2026-10-07-Microsoft-Entra-ID-ハイブリッドID-Connect-Sync-Cloud-Sync-パスワードハッシュ同期.md)
 - 2026-10-05 [【勉強】IGA（アイデンティティガバナンス＆管理）— ロール設計（組織ロールをアクセスパッケージ／ロールで表現する）（2026-10-05）](2026/2026-10-05-IGA-ロール設計-組織ロールをアクセスパッケージ-ロールで表現する.md)
 - 2026-10-01 [【勉強】Okta Customer Identity Cloud (Auth0) — OIDC／OAuth 2.0 とアプリケーション・API（audience・スコープ・リフレッシュトークン）（2026-10-01）](2026/2026-10-01-Okta-Customer-Identity-Cloud-Auth0-OIDC-OAuth-2.0-とアプリケーション-API-audience-スコープ-リフレッシュトークン.md)
 - 2026-09-30 [【勉強】Ping Identity — OIDC／OAuth 2.0 とアプリ・カスタムリソース（PKCE・スコープ）（2026-09-30）](2026/2026-09-30-Ping-Identity-OIDC-OAuth-2.0-とアプリ-カスタムリソース-PKCE-スコープ.md)
