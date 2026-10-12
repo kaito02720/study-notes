@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 42 件。
+全 43 件。
 
 ## 2026年
 
+- 2026-10-12 [【勉強】Okta Customer Identity Cloud (Auth0) — Active Directory／LDAP 連携（AD/LDAP コネクター・キャッシュ・高可用性）（2026-10-12）](2026/2026-10-12-Okta-Customer-Identity-Cloud-Auth0-Active-Directory-LDAP連携-AD-LDAPコネクター-キャッシュ-高可用性.md)
 - 2026-10-09 [【勉強】Ping Identity — Active Directory／LDAP 連携（LDAP ゲートウェイ・ユーザータイプ・初回認証での移行）（2026-10-09）](2026/2026-10-09-Ping-Identity-Active-Directory-LDAP連携-LDAPゲートウェイ-ユーザータイプ-初回認証での移行.md)
 - 2026-10-08 [【勉強】Okta Workforce Identity Cloud — Active Directory 連携（Okta AD エージェント・委任認証・インポート）（2026-10-08）](2026/2026-10-08-Okta-Workforce-Identity-Cloud-Active-Directory-連携-Okta-AD-エージェント-委任認証-インポート.md)
 - 2026-10-07 [【勉強】Microsoft Entra ID — ハイブリッドID（Connect Sync・Cloud Sync・パスワードハッシュ同期）（2026-10-07）](2026/2026-10-07-Microsoft-Entra-ID-ハイブリッドID-Connect-Sync-Cloud-Sync-パスワードハッシュ同期.md)
