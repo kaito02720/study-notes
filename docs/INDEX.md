@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 45 件。
+全 46 件。
 
 ## 2026年
 
+- 2026-10-18 [【勉強】Microsoft Entra ID — 管理者ロールと PIM（Privileged Identity Management）による Just-in-Time 権限（2026-10-18）](2026/2026-10-18-Microsoft-Entra-ID-管理者ロールと-PIM-Privileged-Identity-Management-による-Just-in-Time-権限.md)
 - 2026-10-16 [【勉強】Keeper — Active Directory／LDAP 連携（Keeper AD Bridge・ドメインフィルター・承認キュー）（2026-10-16）](2026/2026-10-16-Keeper-Active-Directory-LDAP連携-Keeper-AD-Bridge-ドメインフィルター-承認キュー.md)
 - 2026-10-13 [【勉強】IGA（アイデンティティガバナンス＆管理）— アプリ連携（ガバナンス対象アプリのオンボーディング）（2026-10-13）](2026/2026-10-13-IGA-アプリ連携-ガバナンス対象アプリのオンボーディング.md)
 - 2026-10-12 [【勉強】Okta Customer Identity Cloud (Auth0) — Active Directory／LDAP 連携（AD/LDAP コネクター・キャッシュ・高可用性）（2026-10-12）](2026/2026-10-12-Okta-Customer-Identity-Cloud-Auth0-Active-Directory-LDAP連携-AD-LDAPコネクター-キャッシュ-高可用性.md)
