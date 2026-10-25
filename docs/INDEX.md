@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 50 件。
+全 51 件。
 
 ## 2026年
 
+- 2026-10-25 [【勉強】Keeper — 管理者ロール（Administrative Permissions・Managed Node・権限委任）（2026-10-25）](2026/2026-10-25-Keeper-管理者ロール-Administrative-Permissions-Managed-Node-権限委任.md)
 - 2026-10-22 [【勉強】IGA（アイデンティティガバナンス＆管理）— 管理者ロールと権限委任（Entra・Okta・SailPoint）（2026-10-22）](2026/2026-10-22-IGA-管理者ロールと権限委任-Entra-Okta-SailPoint.md)
 - 2026-10-21 [【勉強】Okta Customer Identity Cloud (Auth0) — 管理者ロール（Dashboard のテナントメンバーとロール）（2026-10-21）](2026/2026-10-21-Okta-Customer-Identity-Cloud-Auth0-管理者ロール-Dashboard-テナントメンバーとロール.md)
 - 2026-10-20 [【勉強】Ping Identity — 管理者ロール（組み込みロール・カスタムロール・グループ割り当て）（2026-10-20）](2026/2026-10-20-Ping-Identity-管理者ロール-組み込みロール-カスタムロール-グループ割り当て.md)
