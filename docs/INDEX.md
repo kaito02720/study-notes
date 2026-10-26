@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 51 件。
+全 52 件。
 
 ## 2026年
 
+- 2026-10-26 [【勉強】Microsoft Entra ID — 外部ID（B2B コラボレーション：ゲスト招待・クロステナントアクセス設定）（2026-10-26）](2026/2026-10-26-Microsoft-Entra-ID-外部ID-B2B-コラボレーション-ゲスト招待-クロステナントアクセス設定.md)
 - 2026-10-25 [【勉強】Keeper — 管理者ロール（Administrative Permissions・Managed Node・権限委任）（2026-10-25）](2026/2026-10-25-Keeper-管理者ロール-Administrative-Permissions-Managed-Node-権限委任.md)
 - 2026-10-22 [【勉強】IGA（アイデンティティガバナンス＆管理）— 管理者ロールと権限委任（Entra・Okta・SailPoint）（2026-10-22）](2026/2026-10-22-IGA-管理者ロールと権限委任-Entra-Okta-SailPoint.md)
 - 2026-10-21 [【勉強】Okta Customer Identity Cloud (Auth0) — 管理者ロール（Dashboard のテナントメンバーとロール）（2026-10-21）](2026/2026-10-21-Okta-Customer-Identity-Cloud-Auth0-管理者ロール-Dashboard-テナントメンバーとロール.md)
