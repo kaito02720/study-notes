@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 54 件。
+全 55 件。
 
 ## 2026年
 
+- 2026-10-29 [【勉強】Okta Customer Identity Cloud (Auth0) — 外部 IdP 連携（Connections・SAML／OIDC・HRD・アカウントのリンク）（2026-10-29）](2026/2026-10-29-Okta-Customer-Identity-Cloud-Auth0-外部-IdP-連携-Connections-SAML-OIDC-HRD-アカウントのリンク.md)
 - 2026-10-28 [【勉強】Ping Identity — 外部 IdP 連携（External IdPs・認証ポリシー・アカウントのリンク）（2026-10-28）](2026/2026-10-28-Ping-Identity-外部-IdP-連携-External-IdPs-SAML-OIDC-認証ポリシー-アカウントのリンク.md)
 - 2026-10-27 [【勉強】Okta Workforce Identity Cloud — 外部 IdP 連携（インバウンドフェデレーション・IdP ルーティングルール）（2026-10-27）](2026/2026-10-27-Okta-Workforce-Identity-Cloud-外部-IdP-連携-インバウンドフェデレーション-IdP-ルーティングルール.md)
 - 2026-10-26 [【勉強】Microsoft Entra ID — 外部ID（B2B コラボレーション：ゲスト招待・クロステナントアクセス設定）（2026-10-26）](2026/2026-10-26-Microsoft-Entra-ID-外部ID-B2B-コラボレーション-ゲスト招待-クロステナントアクセス設定.md)
