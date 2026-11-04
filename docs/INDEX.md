@@ -2,10 +2,12 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 56 件。
+全 58 件。
 
 ## 2026年
 
+- 2026-11-04 [【勉強】Microsoft Entra ID — ID Protection（リスク検出とリスクベース条件付きアクセス）（2026-11-04）](2026/2026-11-04-Microsoft-Entra-ID-ID-Protection-リスク検出とリスクベース条件付きアクセス.md)
+- 2026-11-03 [【勉強】Keeper — One-Time Share（外部への期限付き共有・デバイス固定・管理者ポリシー）（2026-11-03）](2026/2026-11-03-Keeper-One-Time-Share-外部への期限付き共有-デバイス固定-管理者ポリシー.md)
 - 2026-11-01 [【勉強】IGA（アイデンティティガバナンス＆管理）— 外部ユーザー（ゲスト）のガバナンス（Entra：コネクテッド組織・アクセスパッケージ・ゲストのライフサイクル）（2026-11-01）](2026/2026-11-01-IGA-外部ユーザー-ゲスト-のガバナンス-Entra-コネクテッド組織-アクセスパッケージ-ゲストのライフサイクル.md)
 - 2026-10-29 [【勉強】Okta Customer Identity Cloud (Auth0) — 外部 IdP 連携（Connections・SAML／OIDC・HRD・アカウントのリンク）（2026-10-29）](2026/2026-10-29-Okta-Customer-Identity-Cloud-Auth0-外部-IdP-連携-Connections-SAML-OIDC-HRD-アカウントのリンク.md)
 - 2026-10-28 [【勉強】Ping Identity — 外部 IdP 連携（External IdPs・認証ポリシー・アカウントのリンク）（2026-10-28）](2026/2026-10-28-Ping-Identity-外部-IdP-連携-External-IdPs-SAML-OIDC-認証ポリシー-アカウントのリンク.md)
