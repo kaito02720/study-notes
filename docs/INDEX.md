@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 58 件。
+全 59 件。
 
 ## 2026年
 
+- 2026-11-05 [【勉強】Okta Workforce Identity Cloud — Identity Threat Protection（セッション保護・エンティティリスクポリシー・Universal Logout）（2026-11-05）](2026/2026-11-05-Okta-Workforce-Identity-Cloud-Identity-Threat-Protection-セッション保護-エンティティリスクポリシー-Universal-Logout.md)
 - 2026-11-04 [【勉強】Microsoft Entra ID — ID Protection（リスク検出とリスクベース条件付きアクセス）（2026-11-04）](2026/2026-11-04-Microsoft-Entra-ID-ID-Protection-リスク検出とリスクベース条件付きアクセス.md)
 - 2026-11-03 [【勉強】Keeper — One-Time Share（外部への期限付き共有・デバイス固定・管理者ポリシー）（2026-11-03）](2026/2026-11-03-Keeper-One-Time-Share-外部への期限付き共有-デバイス固定-管理者ポリシー.md)
 - 2026-11-01 [【勉強】IGA（アイデンティティガバナンス＆管理）— 外部ユーザー（ゲスト）のガバナンス（Entra：コネクテッド組織・アクセスパッケージ・ゲストのライフサイクル）（2026-11-01）](2026/2026-11-01-IGA-外部ユーザー-ゲスト-のガバナンス-Entra-コネクテッド組織-アクセスパッケージ-ゲストのライフサイクル.md)
