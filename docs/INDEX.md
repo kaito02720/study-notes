@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 61 件。
+全 62 件。
 
 ## 2026年
 
+- 2026-11-10 [【勉強】IGA（アイデンティティガバナンス＆管理）— リスクシグナルとガバナンスの連携（ID Protection ベースの承認・非アクティブユーザーの棚卸し）（2026-11-10）](2026/2026-11-10-IGA-リスクシグナルとガバナンスの連携-ID-Protection-ベースの承認-非アクティブユーザーの棚卸し.md)
 - 2026-11-09 [【勉強】Okta Customer Identity Cloud (Auth0) — Attack Protection（Brute-force・Suspicious IP・Bot Detection・漏えいパスワード検知）（2026-11-09）](2026/2026-11-09-Okta-Customer-Identity-Cloud-Auth0-Attack-Protection-Brute-force-Suspicious-IP-Bot-Detection-漏えいパスワード検知.md)
 - 2026-11-08 [【勉強】Ping Identity — PingOne Protect（予測子・リスクポリシー・リスク評価と完了ステータス）（2026-11-08）](2026/2026-11-08-Ping-Identity-PingOne-Protect-予測子-リスクポリシー-リスク評価と完了ステータス.md)
 - 2026-11-05 [【勉強】Okta Workforce Identity Cloud — Identity Threat Protection（セッション保護・エンティティリスクポリシー・Universal Logout）（2026-11-05）](2026/2026-11-05-Okta-Workforce-Identity-Cloud-Identity-Threat-Protection-セッション保護-エンティティリスクポリシー-Universal-Logout.md)
