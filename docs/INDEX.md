@@ -2,10 +2,12 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 62 件。
+全 64 件。
 
 ## 2026年
 
+- 2026-11-13 [【勉強】Microsoft Entra ID — パスワードレス認証（認証方法ポリシー・パスキー（FIDO2）・一時アクセスパス）（2026-11-13）](2026/2026-11-13-Microsoft-Entra-ID-パスワードレス認証-認証方法ポリシー-パスキー-FIDO2-一時アクセスパス.md)
+- 2026-11-12 [【勉強】Keeper — BreachWatch とセキュリティ監査（ダークウェブ監視・HSM による照合・監査スコア）（2026-11-12）](2026/2026-11-12-Keeper-BreachWatch-とセキュリティ監査-ダークウェブ監視-HSM-による照合-監査スコア.md)
 - 2026-11-10 [【勉強】IGA（アイデンティティガバナンス＆管理）— リスクシグナルとガバナンスの連携（ID Protection ベースの承認・非アクティブユーザーの棚卸し）（2026-11-10）](2026/2026-11-10-IGA-リスクシグナルとガバナンスの連携-ID-Protection-ベースの承認-非アクティブユーザーの棚卸し.md)
 - 2026-11-09 [【勉強】Okta Customer Identity Cloud (Auth0) — Attack Protection（Brute-force・Suspicious IP・Bot Detection・漏えいパスワード検知）（2026-11-09）](2026/2026-11-09-Okta-Customer-Identity-Cloud-Auth0-Attack-Protection-Brute-force-Suspicious-IP-Bot-Detection-漏えいパスワード検知.md)
 - 2026-11-08 [【勉強】Ping Identity — PingOne Protect（予測子・リスクポリシー・リスク評価と完了ステータス）（2026-11-08）](2026/2026-11-08-Ping-Identity-PingOne-Protect-予測子-リスクポリシー-リスク評価と完了ステータス.md)
