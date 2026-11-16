@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 65 件。
+全 66 件。
 
 ## 2026年
 
+- 2026-11-16 [【勉強】Ping Identity — パスワードレス認証（FIDO ポリシー・パスキー・MFA ステップ）（2026-11-16）](2026/2026-11-16-Ping-Identity-パスワードレス認証-FIDO-ポリシー-パスキー-MFA-ステップ.md)
 - 2026-11-15 [【勉強】Okta Workforce Identity Cloud — パスワードレス認証（Okta FastPass・パスキー（FIDO2 WebAuthn）・パスワード任意化）（2026-11-15）](2026/2026-11-15-Okta-Workforce-Identity-Cloud-パスワードレス認証-Okta-FastPass-パスキー-FIDO2-WebAuthn-パスワード任意化.md)
 - 2026-11-13 [【勉強】Microsoft Entra ID — パスワードレス認証（認証方法ポリシー・パスキー（FIDO2）・一時アクセスパス）（2026-11-13）](2026/2026-11-13-Microsoft-Entra-ID-パスワードレス認証-認証方法ポリシー-パスキー-FIDO2-一時アクセスパス.md)
 - 2026-11-12 [【勉強】Keeper — BreachWatch とセキュリティ監査（ダークウェブ監視・HSM による照合・監査スコア）（2026-11-12）](2026/2026-11-12-Keeper-BreachWatch-とセキュリティ監査-ダークウェブ監視-HSM-による照合-監査スコア.md)
