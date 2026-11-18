@@ -2,10 +2,11 @@
 
 毎朝の勉強記事のバックアップ。原本はNotionの「勉強記事置き場」。
 
-全 67 件。
+全 68 件。
 
 ## 2026年
 
+- 2026-11-18 [【勉強】IGA（アイデンティティガバナンス＆管理）— パスワードレス・オンボーディング（ライフサイクルワークフローによる TAP 自動発行・本人確認付き入社フロー）（2026-11-18）](2026/2026-11-18-IGA-パスワードレス-オンボーディング-ライフサイクルワークフローによる-TAP-自動発行-本人確認付き入社フロー.md)
 - 2026-11-17 [【勉強】Okta Customer Identity Cloud (Auth0) — パスワードレス認証（パスキー・Passwordless 接続（メール／SMS OTP））（2026-11-17）](2026/2026-11-17-Okta-Customer-Identity-Cloud-Auth0-パスワードレス認証-パスキー-Passwordless-接続-メール-SMS-OTP.md)
 - 2026-11-16 [【勉強】Ping Identity — パスワードレス認証（FIDO ポリシー・パスキー・MFA ステップ）（2026-11-16）](2026/2026-11-16-Ping-Identity-パスワードレス認証-FIDO-ポリシー-パスキー-MFA-ステップ.md)
 - 2026-11-15 [【勉強】Okta Workforce Identity Cloud — パスワードレス認証（Okta FastPass・パスキー（FIDO2 WebAuthn）・パスワード任意化）（2026-11-15）](2026/2026-11-15-Okta-Workforce-Identity-Cloud-パスワードレス認証-Okta-FastPass-パスキー-FIDO2-WebAuthn-パスワード任意化.md)
